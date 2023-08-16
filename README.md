@@ -1,3 +1,6 @@
+I see you have landed in my profile. Let me
+entertain you with a riddle:
+
 "I'm a code magician, weaving spells so fine,
 In repos and branches, my secrets align.
 Forks and commits, the dance of my might,
